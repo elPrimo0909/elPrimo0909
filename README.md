@@ -12,6 +12,6 @@ const habilidades = {
 }
 ```
 
-
+<img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos5.png" > 
 
 
