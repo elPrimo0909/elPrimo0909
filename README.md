@@ -4,7 +4,7 @@
 
 ```javascript
 const habilidades = {
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java, Tauri],
   tools: [React, Redux, Node, Styled-Components, Jest],
   architecture: ["microservices", "event-driven"],
 
